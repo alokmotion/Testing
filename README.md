@@ -30,3 +30,13 @@ Alok Patel
 <h1> What is Testing ? </h1>
 <p>Testing is the process of verifying the application or product is build accourding to the requirement </p>
 
+<h1> What is Software ? </h1>
+
+
+<h1> What is Software Testing ? </h1>
+
+<h1> What will happen if we are not performing Testing  ? </h1>
+
+
+<h1> Type of Testing ? </h1>
+
